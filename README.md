@@ -82,8 +82,14 @@ DribbleClone/
 
 ## 🚀 How to Run
 
-This is officially deployed and you can access it (or view that) by clicking on that link
-<a>dribbleclone-two.vercel.app</a>
+Method 1:
+
+This is officially deployed and you can access it (or view that) by clicking on that link 🔗 
+<a href="dribbleclone-two.vercel.app">dribbleclone-two.vercel.app</a>
+
+Method 2:
+
+if you want to clone that repository to your local system you can follow this method
 
 1. Clone this repository:
 
