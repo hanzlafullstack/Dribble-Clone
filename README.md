@@ -4,7 +4,8 @@
 > This project represents my 20-day journey of understanding web structure, layout systems, and visual styling.
 
 ---
-
+![Dribbble Clone Preview](./Dribble_project_pics/preview.png)
+---
 ## 🧩 Overview
 
 This was my **finishing project** for HTML & CSS — a personal challenge to recreate the Dribbble homepage using only front-end fundamentals.
