@@ -68,7 +68,9 @@ DribbleClone/
   so parts of the layout aren’t perfectly responsive at all widths.
 * Dropdowns and interactivity weren’t implemented — by choice —
   since I wanted to move ahead and learn **JavaScript** for that.
-
+* Its still not that much responsive as you think , because i had very less experience
+  of css at that time , so i could not make it responsive further more , although if you are previewing
+  in the mobile screen you can turn on the desktop site for better preview
 ---
 
 ## 🧠 What I Learned
