@@ -88,7 +88,7 @@ DribbleClone/
 Method 1:
 
 This is officially deployed and you can access it (or view that) by clicking on that link 🔗 
-<a href="dribbleclone-two.vercel.app">dribbleclone-two.vercel.app</a>
+<a href="https://hanzlafullstack-dribble.vercel.app/">https://hanzlafullstack-dribble.vercel.app/</a>
 
 Method 2:
 
